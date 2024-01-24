@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQL2Fj0uSezPBRRXkLBnzk6gV5IkZhrqsg9G8tJ4O5nz8wi/kuaP5a0YlWEb0txEfCVRX6i5FSMec5dTEobiqg==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\CS_Practice\\Assignment\\prog2\\prog2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: An error occurred while sending the request."
+    }
+  ]
+}
