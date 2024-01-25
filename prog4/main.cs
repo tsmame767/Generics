@@ -11,7 +11,7 @@ namespace prog4
 
         static void Main()
         {
-
+             
             int[] arr1 = { 1,6, 2, 3, 4, 5 };
             double[] arr2 = { 11.2, 6.77, 22.3, 33.4, 44.5, 55.6 };
             string[] arr3 = { "Tushar", "Hemant", "Vikas" };
